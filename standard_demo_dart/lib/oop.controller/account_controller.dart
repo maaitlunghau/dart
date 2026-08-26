@@ -1,4 +1,4 @@
-import 'package:demo_dart/oop.model/account.dart';
+import 'package:standard_demo_dart/oop.model/account.dart';
 
 // Account controller
 class AccountController {
