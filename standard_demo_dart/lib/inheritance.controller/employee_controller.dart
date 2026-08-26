@@ -5,7 +5,7 @@
 */
 
 import 'dart:io';
-import 'package:demo_dart/inheritance.model/employee.dart';
+import 'package:standard_demo_dart/inheritance.model/employee.dart';
 
 /* 1. EmployeeController class */
 class EmployeeController {

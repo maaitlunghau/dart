@@ -2,11 +2,11 @@
   Flow 5: Employee Management
     Person -> Employee implements Person
 Note:
-    1. 'package:demo_dart/inheritance.model/person.dart'
+    1. 'package:standard_demo_dart/inheritance.model/person.dart'
     2. without using 'bin' or 'lib'
 */
 
-import 'package:demo_dart/inheritance.model/person.dart';
+import 'package:standard_demo_dart/inheritance.model/person.dart';
 
 /* 1. Employee class */
 class Employee implements Person {

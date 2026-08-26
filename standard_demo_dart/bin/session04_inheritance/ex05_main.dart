@@ -9,7 +9,7 @@
 */
 
 import 'dart:io';
-import 'package:demo_dart/inheritance.controller/employee_controller.dart';
+import 'package:standard_demo_dart/inheritance.controller/employee_controller.dart';
 
 /* 1. Menu */
 void menu() {
