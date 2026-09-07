@@ -1,10 +1,16 @@
-.claude
-.codegraph
+# Editor & OS
+.claude/
 .DS_Store
-.husky
 
-note.txt
+# Tooling
+.husky/
 
-node_modules
+# Dependencies
+node_modules/
+
+# Package manifests
 package.json
 package-lock.json
+
+# Misc
+note.txt
