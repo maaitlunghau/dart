@@ -1,5 +1,10 @@
 .claude
 .codegraph
 .DS_Store
+.husky
 
 note.txt
+
+node_modules
+package.json
+package-lock.json
