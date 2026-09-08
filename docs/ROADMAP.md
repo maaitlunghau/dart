@@ -24,7 +24,7 @@ thi — xem `_archive/`).
 | 02 | `02_functions_and_closures` | 0 | ✅ **2026-09-08** — `functions.dart` |
 | 03 | `03_null_safety` | 0 | ✅ **2026-09-08** — `null_safety.dart` |
 | 04 | `04_oop_basics` | 0 | ✅ **2026-09-08** — `oop_basics.dart` |
-| 05 | `05_inheritance_and_interfaces` | 0 | `extends`, `abstract`, `implements`, `@override`, đa hình |
+| 05 | `05_inheritance_and_interfaces` | 0 | ✅ **2026-09-08** — `inheritance.dart` |
 | 06 | `06_collections_and_iterable` | 0 | `List`/`Set`/`Map`, collection if/for, `map`/`where`/`fold` |
 | 07 | `07_equality_and_immutability` | 0 | `==` + `hashCode`, `const` constructor, `copyWith` |
 | 08 | `08_future_async_await` | 1 | `Future`, `async`/`await`, bắt lỗi trong async |
