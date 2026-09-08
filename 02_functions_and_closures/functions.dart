@@ -1,7 +1,7 @@
 /// Named parameter: bắt buộc gọi kèm tên
 /// - 'required': không được thiếu
 /// - 'age = 0': có default thì được bỏ qua
-String greet({required String name, int age = 0}) => "Hello $name, $age";
+String greet({required String name, int age = 0}) => 'Hello $name, $age';
 
 /// Optional positional:
 /// - '[...]' được bỏ qua, nhưng phải đúng thứ tự
@@ -26,7 +26,7 @@ int Function() makeCounter() {
 void main() {
   print(greet(name: 'An'));
   print(greet(name: 'Bình', age: 20));
-  print(greet(age: 20, name: "maaitlunghau"));
+  print(greet(age: 20, name: 'maaitlunghau'));
 
   print(describe('An'));
   print(describe('An', 'Ăn'));

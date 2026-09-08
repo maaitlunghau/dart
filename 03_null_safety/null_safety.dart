@@ -3,7 +3,7 @@
 /// - 'String' là kiểu dữ liệu không thể null.
 String nullableVsNot() {
   String? maybe;
-  String sure = "have value";
+  String sure = 'have value';
 
   return '$maybe / $sure';
 }
@@ -12,7 +12,7 @@ String nullableVsNot() {
 /// - '??': lấy giá trị thay thế khi null
 /// - '?.': gọi an toàn, null thì trả về null
 String defaults(String? name) {
-  final display = name ?? "Guest";
+  final display = name ?? 'Guest';
   final len = name?.length;
 
   return '$display / $len';
@@ -26,7 +26,7 @@ String assignIfNull(String? name) {
   // if (name == null) {
   //   name = "default";
   // }
-  name ??= "default";
+  name ??= 'default';
   return name;
 }
 

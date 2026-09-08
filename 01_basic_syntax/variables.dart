@@ -3,7 +3,7 @@
 /// - kiểu sẽ bị khoá từ đó về sau
 String describeVar() {
   var greeting = 'Hello';
-  greeting = "Hello, Dart";
+  greeting = 'Hello, Dart';
 
   return greeting;
 }
