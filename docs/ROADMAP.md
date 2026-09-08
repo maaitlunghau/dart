@@ -23,7 +23,7 @@ thi — xem `_archive/`).
 | 01 | `01_basic_syntax` | 0 | ✅ **2026-09-08** — `variables.dart`, `basics.dart` |
 | 02 | `02_functions_and_closures` | 0 | ✅ **2026-09-08** — `functions.dart` |
 | 03 | `03_null_safety` | 0 | ✅ **2026-09-08** — `null_safety.dart` |
-| 04 | `04_oop_basics` | 0 | Class, các loại constructor, getter/setter, private `_` |
+| 04 | `04_oop_basics` | 0 | ✅ **2026-09-08** — `oop_basics.dart` |
 | 05 | `05_inheritance_and_interfaces` | 0 | `extends`, `abstract`, `implements`, `@override`, đa hình |
 | 06 | `06_collections_and_iterable` | 0 | `List`/`Set`/`Map`, collection if/for, `map`/`where`/`fold` |
 | 07 | `07_equality_and_immutability` | 0 | `==` + `hashCode`, `const` constructor, `copyWith` |
