@@ -20,8 +20,8 @@ thi — xem `_archive/`).
 | # | Thư mục | Tier | Mô tả ngắn |
 |---|---|:---:|---|
 | 00 | `00_gap_check` | 0 | ✅ **2026-09-08** — 42/51. Bỏ phần tự luận để rút ngắn. Lỗ hổng: mục 05, 02, 03, 06, 09 |
-| 01 | `01_basic_syntax` | 0 | Biến, kiểu, toán tử, chuỗi, control flow, `switch` |
-| 02 | `02_functions_and_closures` | 0 | Named parameters, arrow function, callback, closure |
+| 01 | `01_basic_syntax` | 0 | ✅ **2026-09-08** — `variables.dart`, `basics.dart` |
+| 02 | `02_functions_and_closures` | 0 | ✅ **2026-09-08** — `functions.dart` |
 | 03 | `03_null_safety` | 0 | `?`, `!`, `late`, `??`, `?.` và type promotion |
 | 04 | `04_oop_basics` | 0 | Class, các loại constructor, getter/setter, private `_` |
 | 05 | `05_inheritance_and_interfaces` | 0 | `extends`, `abstract`, `implements`, `@override`, đa hình |
