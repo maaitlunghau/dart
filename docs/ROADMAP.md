@@ -17,7 +17,7 @@ thi — xem `_archive/`).
 
 | # | Thư mục | Tier | Mô tả ngắn |
 |---|---|:---:|---|
-| 00 | `00_gap_check` | 0 | Chẩn đoán lỗ hổng thật từ code cũ trong `_archive/` trước khi học |
+| 00 | `00_gap_check` | 0 | ✅ **2026-09-08** — 42/51. Bỏ phần tự luận để rút ngắn. Lỗ hổng: mục 05, 02, 03, 06, 09 |
 | 01 | `01_basic_syntax` | 0 | Biến, kiểu, toán tử, chuỗi, control flow, `switch` |
 | 02 | `02_functions_and_closures` | 0 | Named parameters, arrow function, callback, closure |
 | 03 | `03_null_safety` | 0 | `?`, `!`, `late`, `??`, `?.` và type promotion |
@@ -65,6 +65,17 @@ nhìn AI viết. Chỗ nào bí thì ghi lại, sẽ vá đúng ở mục 04–0
 
 **Áp dụng:** Không học lại thứ đã biết, không bỏ sót thứ tưởng biết. Đây là mục rẻ nhất nhưng quyết
 định roadmap có đi nhanh được không.
+
+> **Đã làm — 2026-09-08.** Triển khai thành 2 bài trắc nghiệm thay vì ghi chú tự luận:
+> `01_quiz_archive.md` (19/25) và `02_quiz_fundamentals.md` (23/26).
+> Phần tự luận **cố ý bỏ** để rút ngắn thời gian — 5 câu gốc ở trên chưa được trả lời bằng lời.
+>
+> Lỗ hổng cần đi chậm: **05** (abstract → bắt buộc override), **02** (named parameter),
+> **03** (`late` ≠ nullable), **06** (khoá `Map`, `Iterable` lazy), **09** (`on X` chỉ bắt đúng X).
+> Đi nhanh được: **07** và **08**.
+>
+> Phát hiện lớn nhất: hiệu chuẩn tự tin đang ngược — 7 câu ghi "Chắc" thì sai, 6 câu ghi "Đoán"
+> thì đúng. Từ mục 01 trở đi, kiểm chứng bằng `expect(...)` thay vì tin cảm giác.
 
 ---
 
