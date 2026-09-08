@@ -11,3 +11,6 @@ node_modules/
 # Package manifests
 package.json
 package-lock.json
+
+# Dart
+.dart_tool/
