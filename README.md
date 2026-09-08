@@ -27,8 +27,11 @@ the first phase is preserved untouched in `_archive/` as a reference point.
   solid base for Flutter.
 - **Method:** follow the planned path in [`docs/ROADMAP.md`](docs/ROADMAP.md) — 21 topics across 4
   tiers, worked through in order, no skipping ahead.
-- **Role of AI:** **assistive, not primary** — explaining concepts, reviewing code I wrote, helping
-  debug. The code itself is hand-written, to get real hands-on time with the language.
+- **Role of AI:** **a reference, not a substitute** — explaining concepts, proposing sample code,
+  reviewing, debugging. AI **is allowed** to produce complete code for reference; the conditions are
+  that I **type it into the file myself** and can **explain every line back**. Copying without
+  understanding is what repeats phase 1 — the line is drawn at comprehension, not at who typed it
+  first.
 
 ---
 

@@ -25,8 +25,11 @@ giữ nguyên trong `_archive/` — không xoá, để làm mốc đối chiếu
 - Mục tiêu: nắm Dart từ cơ bản đến đủ nâng cao, làm nền vững để vào Flutter.
 - Cách làm: đi theo lộ trình đã vạch sẵn ở [`docs/ROADMAP.md`](docs/ROADMAP.md) — 21 chủ đề chia 4
   tier, học tuần tự, không nhảy cóc.
-- Vai trò của AI: **hỗ trợ, không thay thế** — dùng để giải thích khái niệm, review code tự viết,
-  gỡ lỗi. Code chính do mình viết, để thật sự cọ xát với ngôn ngữ.
+- Vai trò của AI: **tài liệu tham khảo, không phải người làm thay** — giải thích khái niệm, đề xuất
+  code mẫu, review code, gỡ lỗi. AI **được phép** đưa ra code hoàn chỉnh để tham khảo; điều kiện là
+  code đó phải do mình **tự gõ lại** vào file, và **giải thích lại được** từng dòng. Chép mà không
+  hiểu thì mới là lặp lại sai lầm của giai đoạn 1 — ranh giới nằm ở chỗ hiểu, không nằm ở chỗ ai gõ
+  ra trước.
 
 ---
 

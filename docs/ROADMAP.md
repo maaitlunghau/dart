@@ -7,7 +7,9 @@ thi — xem `_archive/`).
 
 - Mỗi mục là **một thư mục thật** ở root — code tự viết nằm trong đó, không phải chỉ đọc lý thuyết.
 - Đi theo tier: xong hết tier 0 mới sang tier 1. Trong cùng tier có thể linh hoạt thứ tự.
-- AI chỉ dùng để giải thích khái niệm, review code tự viết, hoặc gỡ lỗi — **không code hộ**.
+- AI dùng như **tài liệu tham khảo**: giải thích khái niệm, đề xuất code mẫu, review, gỡ lỗi.
+  Được phép nhận code hoàn chỉnh từ AI, với hai điều kiện: **tự gõ lại vào file** và **giải thích
+  lại được từng dòng**. Ranh giới là ở chỗ hiểu, không phải ở chỗ ai gõ ra trước.
 - Một mục coi là xong khi tự giải thích lại được bằng lời, không nhìn tài liệu.
 - `_archive/` là tham chiếu về pattern (không phải chuẩn để học theo) — dùng để đối chiếu ở `00_`.
 
