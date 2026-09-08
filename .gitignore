@@ -11,6 +11,3 @@ node_modules/
 # Package manifests
 package.json
 package-lock.json
-
-# Misc
-note.txt

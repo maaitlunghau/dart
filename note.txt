@@ -1,0 +1,50 @@
+--------------------------------
+DART
+--------------------------------
+ROADMAP
+- Dart Roadmap (roadmap.sh): https://roadmap.sh/ai/roadmap/dart-development-86qqg
+- Flutter Roadmap (roadmap.sh): https://roadmap.sh/flutter
+
+
+
+--------------------------------
+NOTE
+--------------------------------
+I. LIBRARY
+- Mỗi file Dart (.dart) mặc định là 1 library.
+
+
+II. VISIBILITY
+- Dart không có khái niệm public / private như Java.
+- Chỉ có 2 mức visibility:
+
++ Có "_" phía trước:
+  -> Library-private
+  -> Chỉ code trong cùng library mới truy cập được.
+
++ Không có "_" phía trước:
+  -> Public
+  -> Code ở library khác có thể truy cập thông qua import.
+
+
+III. PRIVATE GIỮA NHIỀU FILE
+- Nếu 2 file thuộc cùng 1 library:
+  -> Có thể truy cập các thành phần _private của nhau.
+- Vì vậy, library-private không đồng nghĩa với private trong 1 file.
+
+
+
+--------------------------------
+ROADMAP LEARNING
+--------------------------------
+PHASE 1: 0 -> 7
+- Buổi 1
+
+PHASE 2: 8 -> 12
+- Buổi 2
+
+PHASE 3: 13 -> 17
+- Buổi 3
+
+PHASE 4: 18 -> 20
+- Buổi 4
