@@ -27,7 +27,7 @@ thi — xem `_archive/`).
 | 05 | `05_inheritance_and_interfaces` | 0 | ✅ **2026-09-08** — `inheritance.dart` |
 | 06 | `06_collections_and_iterable` | 0 | ✅ **2026-09-09** — `collections.dart` |
 | 07 | `07_equality_and_immutability` | 0 | ✅ **2026-09-09** — `equality.dart` · **hết Tier 0** |
-| 08 | `08_future_async_await` | 1 | `Future`, `async`/`await`, bắt lỗi trong async |
+| 08 | `08_future_async_await` | 1 | ✅ **2026-09-09** — `future.dart` |
 | 09 | `09_error_handling` | 1 | `Exception` vs `Error`, custom exception, `rethrow` |
 | 10 | `10_cascade_notation` | 1 | `..` và `?..` để cấu hình object nhiều bước |
 | 11 | `11_extension_methods` | 1 | Thêm hành vi cho type có sẵn, không cần kế thừa |
