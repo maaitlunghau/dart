@@ -28,7 +28,7 @@ thi — xem `_archive/`).
 | 06 | `06_collections_and_iterable` | 0 | ✅ **2026-09-09** — `collections.dart` |
 | 07 | `07_equality_and_immutability` | 0 | ✅ **2026-09-09** — `equality.dart` · **hết Tier 0** |
 | 08 | `08_future_async_await` | 1 | ✅ **2026-09-09** — `future.dart` |
-| 09 | `09_error_handling` | 1 | `Exception` vs `Error`, custom exception, `rethrow` |
+| 09 | `09_error_handling` | 1 | ✅ **2026-09-09** — `error_handling.dart` · vá nốt lỗ hổng cuối của mục 00 |
 | 10 | `10_cascade_notation` | 1 | `..` và `?..` để cấu hình object nhiều bước |
 | 11 | `11_extension_methods` | 1 | Thêm hành vi cho type có sẵn, không cần kế thừa |
 | 12 | `12_enums` | 1 | Enum thường và enhanced enum (có field/method) |
