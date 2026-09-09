@@ -31,7 +31,7 @@ thi — xem `_archive/`).
 | 09 | `09_error_handling` | 1 | ✅ **2026-09-09** — `error_handling.dart` · vá nốt lỗ hổng cuối của mục 00 |
 | 10 | `10_cascade_notation` | 1 | ✅ **2026-09-09** — `cascade.dart` |
 | 11 | `11_extension_methods` | 1 | ✅ **2026-09-09** — `extensions.dart` |
-| 12 | `12_enums` | 1 | Enum thường và enhanced enum (có field/method) |
+| 12 | `12_enums` | 1 | ✅ **2026-09-09** — `enums.dart` · **hết Tier 1** |
 | 13 | `13_stream_and_streamcontroller` | 2 | `Stream`, `StreamController`, kỷ luật `dispose`/`cancel` |
 | 14 | `14_mixin` | 2 | `mixin`, `with`, resolution order |
 | 15 | `15_advanced_generics` | 2 | Tự viết generic class, bounded type, multi-param |
