@@ -38,7 +38,7 @@ thi — xem `_archive/`).
 | 16 | `16_sealed_classes_pattern_matching` | 2 | ✅ **2026-09-10** — `sealed_state.dart` |
 | 17 | `17_json_serialization` | 2 | ✅ **2026-09-10** — `json_model.dart` |
 | 18 | `18_project_structure_and_testing` | 2 | `pubspec.yaml`, tổ chức `lib/`, `package:test` |
-| 19 | `19_isolates` | 3 | `Isolate.run()`, `compute()` cho tác vụ nặng |
+| 19 | `19_isolates` | 3 | ✅ **2026-09-10** — `isolates.dart` |
 | 20 | `20_advanced_async_patterns` | 3 | `StreamTransformer`, `async*`/`yield*`, event loop |
 
 **Tier 0** — nền tảng bắt buộc, không được bỏ mục nào.
