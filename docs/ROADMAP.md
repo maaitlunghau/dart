@@ -36,7 +36,7 @@ thi — xem `_archive/`).
 | 14 | `14_mixin` | 2 | ✅ **2026-09-10** — `mixins.dart` |
 | 15 | `15_advanced_generics` | 2 | ✅ **2026-09-10** — `advanced_generics.dart`, `covariance_and_typedefs.dart` |
 | 16 | `16_sealed_classes_pattern_matching` | 2 | ✅ **2026-09-10** — `sealed_state.dart` |
-| 17 | `17_json_serialization` | 2 | `dart:convert`, `fromJson`/`toJson` thủ công |
+| 17 | `17_json_serialization` | 2 | ✅ **2026-09-10** — `json_model.dart` |
 | 18 | `18_project_structure_and_testing` | 2 | `pubspec.yaml`, tổ chức `lib/`, `package:test` |
 | 19 | `19_isolates` | 3 | `Isolate.run()`, `compute()` cho tác vụ nặng |
 | 20 | `20_advanced_async_patterns` | 3 | `StreamTransformer`, `async*`/`yield*`, event loop |
