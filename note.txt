@@ -48,3 +48,16 @@ PHASE 3: 13 -> 17
 
 PHASE 4: 18 -> 20
 - Buổi 4
+
+
+
+--------------------------------
+Challenge Module
+--------------------------------
+- 08_future_async_await
+
+- 13_stream_and_streamcontroller
+
+- 15_advanced_generics
+
+- 16_sealed_classes_pattern_matching
