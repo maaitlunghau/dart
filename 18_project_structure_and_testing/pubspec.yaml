@@ -1,0 +1,10 @@
+name: student_manager
+description: Template cấu trúc project Dart phân tầng, dùng làm tham chiếu.
+publish_to: none
+
+environment:
+  sdk: ^3.13.0
+
+dev_dependencies:
+  lints: ^6.1.0
+  test: ^1.32.0
